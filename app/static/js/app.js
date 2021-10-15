@@ -1,4 +1,4 @@
-import "/static/js/Resultlist.js";
+import "/static/js/ResultList.js";
 import "/static/js/UploadForm.js";
 
 class App extends HTMLElement {
